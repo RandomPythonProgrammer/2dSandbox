@@ -1,0 +1,18 @@
+movement: E S D F
+
+Interact 1/attack/break: j
+Interact 2/use: k
+
+Switch between blocks: u
+Eat apple: i
+Place block: o
+
+Commands: z
+"give" {material} {amount}
+"health" {set/add} {amount}
+"time" {set/add} {amount}
+"spawn" {spider} {attempts}
+
+Save: r
+Load: t
+
